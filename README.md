@@ -35,15 +35,23 @@ explainability → structured reporting → analytics), not to make clinical
 claims.
 
 ---
-![Project Home](theme.png)
+![Project Home](xray1.png)
 ---
 ---
-![Project Home](theme.png)
+![Project Home](xray2.png)
 ---
 ---
-![Project Home](theme.png)
+![Project Home](xray3.png)
 ---
-
+---
+![Project Home](xray4.png)
+---
+---
+![Project Home](xray5.png)
+---
+---
+![Project Home](xray6.png)
+---
 
 ## What it actually does
 
