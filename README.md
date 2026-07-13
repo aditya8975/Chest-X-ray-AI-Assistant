@@ -34,6 +34,17 @@ This project exists to demonstrate the engineering pattern (classification →
 explainability → structured reporting → analytics), not to make clinical
 claims.
 
+---
+![Project Home](theme.png)
+---
+---
+![Project Home](theme.png)
+---
+---
+![Project Home](theme.png)
+---
+
+
 ## What it actually does
 
 | Feature | Model / technique | Notes |
