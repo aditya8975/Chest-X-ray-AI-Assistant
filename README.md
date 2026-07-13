@@ -1,6 +1,6 @@
 # Aperture — Chest X-ray AI Assistant
 
-A research/educational demo of the kind of pipeline behind clinical-decision-support
+A educational demo of the kind of pipeline behind clinical-decision-support
 -> upload a chest X-ray, get pathology probabilities across
 18 findings, Grad-CAM heatmaps showing what the model looked at, and a
 structured draft report.
